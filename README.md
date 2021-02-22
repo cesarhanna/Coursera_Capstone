@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Data Science Capstone Project
+This project is about clustering neighborhoods and finding the best one.
