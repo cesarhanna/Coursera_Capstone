@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This project is about clustering neighborhoods and finding the best one.
+This notebook will be used for capstone project.
