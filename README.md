@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This notebook will be used for capstone project.
+This notebook is about segmenting and clustering neighborhoods in Toronto
